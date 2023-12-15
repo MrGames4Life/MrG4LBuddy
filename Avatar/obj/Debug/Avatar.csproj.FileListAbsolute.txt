@@ -1,0 +1,10 @@
+C:\Users\Alumno\Source\Repos\Avatar\obj\Debug\Avatar.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\Avatar\obj\Debug\Avatar.Form1.resources
+C:\Users\Alumno\Source\Repos\Avatar\obj\Debug\Avatar.Properties.Resources.resources
+C:\Users\Alumno\Source\Repos\Avatar\obj\Debug\Avatar.csproj.GenerateResource.cache
+C:\Users\Alumno\Source\Repos\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\Avatar\bin\Debug\Avatar.exe.config
+C:\Users\Alumno\Source\Repos\Avatar\bin\Debug\Avatar.exe
+C:\Users\Alumno\Source\Repos\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Alumno\Source\Repos\Avatar\obj\Debug\Avatar.exe
+C:\Users\Alumno\Source\Repos\Avatar\obj\Debug\Avatar.pdb
